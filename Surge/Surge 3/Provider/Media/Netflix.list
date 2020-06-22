@@ -514,6 +514,7 @@ IP-CIDR,23.228.131.233/32,no-resolve
 IP-CIDR,23.228.131.235/32,no-resolve
 IP-CIDR,23.228.131.237/32,no-resolve
 IP-CIDR,23.228.131.239/32,no-resolve
+IP-CIDR,23.246.0.0/18,no-resolve
 IP-CIDR,24.101.22.50/32,no-resolve
 IP-CIDR,24.101.22.54/32,no-resolve
 IP-CIDR,24.101.91.13/32,no-resolve
