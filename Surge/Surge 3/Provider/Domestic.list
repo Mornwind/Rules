@@ -14,7 +14,11 @@ DOMAIN,ip.bjango.com
 DOMAIN-SUFFIX,alphassl.com
 DOMAIN-SUFFIX,edu.cn
 
-# > Sony
+# > RRYS
+DOMAIN-SUFFIX,p4pfile.com
+DOMAIN-SUFFIX,zmzfile.com
+
+# > Sony PSX
 USER-AGENT,RemotePlay*
 
 # > TeamViewer
@@ -64,7 +68,6 @@ DOMAIN-SUFFIX,aweme.snssdk.com
 DOMAIN-SUFFIX,bababian.com
 DOMAIN-SUFFIX,baidu.com
 DOMAIN-SUFFIX,baidupcs.com
-DOMAIN-SUFFIX,battle.net
 DOMAIN-SUFFIX,bdimg.com
 DOMAIN-SUFFIX,bdstatic.com
 DOMAIN-SUFFIX,beatsbydre.com
@@ -154,6 +157,8 @@ DOMAIN-SUFFIX,luoo.net
 DOMAIN-SUFFIX,lxdns.com
 DOMAIN-SUFFIX,mai.tn
 DOMAIN-SUFFIX,meizu.com
+DOMAIN-SUFFIX,metatrader4.com
+DOMAIN-SUFFIX,metatrader5.com
 DOMAIN-SUFFIX,mi.com
 DOMAIN-SUFFIX,miaopai.com
 DOMAIN-SUFFIX,miui.com

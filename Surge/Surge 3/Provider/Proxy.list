@@ -1,3 +1,6 @@
+# > TestFlight
+DOMAIN,testflight.apple.com
+
 # > Line
 DOMAIN-SUFFIX,lin.ee
 DOMAIN-SUFFIX,line.me
@@ -19,6 +22,9 @@ DOMAIN-SUFFIX,api.amplitude.com
 DOMAIN-SUFFIX,app.smartmailcloud.com
 DOMAIN-SUFFIX,gate.hockeyapp.net
 DOMAIN-SUFFIX,smartmailcloud.com
+
+# > Tesla
+DOMAIN-KEYWORD,tesla
 
 # > Zooba
 USER-AGENT,battleroyale*
@@ -228,7 +234,7 @@ DOMAIN-SUFFIX,gunsamerica.com
 DOMAIN-SUFFIX,gvt0.com
 DOMAIN-SUFFIX,gvt1.com
 DOMAIN-SUFFIX,helpshift.com
-DOMAIN-SUFFIX,hinet.net
+DOMAIN-SUFFIX,hitun.io
 DOMAIN-SUFFIX,hockeyapp.net
 DOMAIN-SUFFIX,homedepot.com
 DOMAIN-SUFFIX,hootsuite.com
@@ -643,7 +649,6 @@ DOMAIN-SUFFIX,fbsbx.com
 DOMAIN-SUFFIX,gcr.io
 DOMAIN-SUFFIX,gmail.com
 DOMAIN-SUFFIX,gosetsuden.jp
-DOMAIN-SUFFIX,gvt1.com
 DOMAIN-SUFFIX,gwtproject.org
 DOMAIN-SUFFIX,heroku.com
 DOMAIN-SUFFIX,html5rocks.com

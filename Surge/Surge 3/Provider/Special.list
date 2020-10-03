@@ -27,6 +27,9 @@ DOMAIN-SUFFIX,dl.google.com
 # > Microsoft
 DOMAIN-SUFFIX,msftconnecttest.com
 
+# > Mugglepay
+DOMAIN-SUFFIX,invoice.mugglepay.com
+
 # > Proxy plugin
 PROCESS-NAME,v2ray
 PROCESS-NAME,ss-local
@@ -35,6 +38,10 @@ PROCESS-NAME,ss-local
 USER-AGENT,Steam*
 DOMAIN-SUFFIX,pinyuncloud.com
 DOMAIN-SUFFIX,steamcontent.com
+
+# > Tesla
+DOMAIN-SUFFIX,tesla.cn
+DOMAIN-SUFFIX,tesla-cdn.thron.cn
 
 # > UUBooster
 PROCESS-NAME,UUBooster
@@ -84,8 +91,5 @@ DOMAIN-SUFFIX,springsunday.net
 DOMAIN-SUFFIX,tjupt.org
 DOMAIN-SUFFIX,totheglory.im
 
-DOMAIN-KEYWORD,announce
-DOMAIN-KEYWORD,torrent
-DOMAIN-KEYWORD,tracker
 DOMAIN-SUFFIX,smtp
 URL-REGEX,(Subject|HELO|SMTP)
